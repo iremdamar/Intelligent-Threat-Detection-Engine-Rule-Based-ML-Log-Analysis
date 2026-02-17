@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+GeoLite2-City.mmdb
+input.log
+alerts.json
+alerts.csv
+.env
