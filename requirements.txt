@@ -1,0 +1,6 @@
+numpy
+requests
+colorama
+scikit-learn
+geoip2
+
